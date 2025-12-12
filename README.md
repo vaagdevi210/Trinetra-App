@@ -1,18 +1,17 @@
 # TRINETRA
 ### About the project:
 
-     The project  allows the users to scan the documents and share the photo as pdf and
-     Also we can do multiple  operations with it like cropping  the image, rotate the image in a convenient
-     way,binarize the image and search for a text in the document.
+     The project  allows the users to scan the documents, refine them, find text in it and share the photo as pdf.
+     We can do multiple operations with the scanned image like cropping, rotate, binarize the image and search for a text in the document generated.
     
 ### Objective of trinetra:
 
      - An android app capable of capturing specified number of images.
-     - An app to crop the images captured as required.
-     - An app capable of enhancing the image, i.e. binarizing the image.
-     - This app also recognizes the text in this image.
-     - This android app is further able to search for given keywords in the text identified and also generate a pdf.
-     - And it can also store it in the local device.
+     - An ability to crop the images captured as required.
+     - It has to be capable of enhancing the image, i.e. binarizing the image.
+     - This app has to recognize the text in this image.
+     - It should be able to search for given keywords in the text identified and generate a pdf.
+     - Finally, it should also store the generated file in the local device.
 
     
 ### Techonology used in the project :
@@ -35,24 +34,20 @@
 
  ### Advantages
 
-     - flexible
-     - web or multi-media tie-up
-     - user friendly
-     - cost effective
-     - inclined to adopt digitization
+     - Flexible
+     - Web or multi-media tie-up
+     - User friendly
+     - Cost effective (Free)
+     - Inclined to adopt digitization
+     - Automates the manual traditional process by generating content as a digital version
+     - Digitize multiple pages in concurrent and time saving manner
+     - Efficient retrieval of content using indexing and searching
      
-     - automates the manual traditional process by generating content as a digital version
-     
-     - digitize multiple pages in concurrent and time saving manner
-     
-     - efficient retrieval of content using indexing and searching
-     
-     -  The system has its advantages such as automation of mundane tasks ,less time complexity ,very small
-        database and high adaptability to untrained inputs with only a small number of features to calculate.
+The system has its advantages such as automation of mundane tasks, less time complexity, very small database and high adaptability to untrained inputs with only a small number of features to calculate.
         
 ### Future Direction
 
-     - Make this app accessible to Government bodies, archivists, publishers etc. that have 
+     - Make this app accessible to Government bodies, archivists, publishers etc. that have
           a large number of printed documents stored physically which is inconvenient in 
           searching, securing and maintaining as compared to digital documents.
      - Enhance the features of the app further like crop and binarize features.
